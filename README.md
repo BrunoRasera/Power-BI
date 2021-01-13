@@ -5,6 +5,6 @@
 
 Dashboard com planilhas fornecidas pela Microsoft.
  
-![AW_1](src/AW_1.png)
-![AW_2](src/AW_2.png)
-![AW_3](src/AW_3.png)
+![AW_1](Adventure Works/AW_1.png)
+![AW_2](Adventure Works/AW_2.png)
+![AW_3](Adventure Works/AW_3.png)
