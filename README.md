@@ -6,5 +6,8 @@
 Dashboard com planilhas fornecidas pela Microsoft.
  
 ![AW_1](/AdventureWorks/AW_1.png)
+---
 ![AW_2](/AdventureWorks/AW_2.png)
+---
 ![AW_3](/AdventureWorks/AW_3.png)
+---
